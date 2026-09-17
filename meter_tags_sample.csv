@@ -1,0 +1,4 @@
+MeterName,MainTag,taghierachy
+EM-1121 MCHW-FWU-22-01104,test-tag-version-1,test-tag-version-1/test-tag-5
+EM-1121 MCHW-FWU-22-01104,testing,testing/testtag-4
+EM-1074 TX-E-01002,test-tag-version-1,test-tag-version-1/test-tag-6
